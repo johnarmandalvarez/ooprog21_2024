@@ -1,12 +1,13 @@
 public class FirstAddressExercise {
     
     public static void main(String[] args) {
-        
+        System.out.println("First Application Application");
         displayAddress();
     }
     
    
     public static void displayAddress() {
+       
         String add = "Xinghua East Road";
         String district = "Chaoyang district";
         String capital = "Beijing";
