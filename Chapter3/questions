@@ -1,0 +1,6 @@
+1. What is the purpose of the main method in this program?
+Answer: The main method contains code to display the headquarters address of a phone brand.
+2. How does the displayAddress() method contribute to the overall output of the program?
+Answer:The displayAddress() method formats and presents address and company details in a clear and structured manner, ensuring that the output is easily readable and well-organized.
+3. What would happen if you removed the System.out.println("First Java application"); line from the main method?
+Answer: The only change you will observe is that the line "First Java application" is removed from the output.
